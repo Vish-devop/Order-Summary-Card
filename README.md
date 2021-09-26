@@ -1,2 +1,4 @@
 # Order-Summary-Card
-In this project, I tried to create a simple UI-Order Summary Card.
+Hello, GUYS!! 
+My name is Vishal Sharma, here I tried to create one order summary card, only using HTML and CSS, just a basic UI.
+I would request you  to tell me if anything can be improvented here!!
